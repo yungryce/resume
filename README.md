@@ -1,21 +1,21 @@
 ## CHIGBU JOSHUA
 
 Lagos, Nigeria | chigbujoshua@yahoo.com | +234 706 444 9563
-Portfolio: [chxgbx.cloud](https://chxgbx.cloud/)
-LinkedIn: [chigbujoshua](https://linkedin.com/in/chigbujoshua)
-GitHub: [yungryce](https://github.com/yungryce)
+- Portfolio: [chxgbx.cloud](https://chxgbx.cloud/)
+- LinkedIn: [chigbujoshua](https://linkedin.com/in/chigbujoshua)
+- GitHub: [yungryce](https://github.com/yungryce)
 
-SUMMARY
+### SUMMARY
 Resourceful Software and Systems Engineer with a solid foundation in Linux, C programming, Command Line scripting, and Data structures. Adept at problem-solving with a proven track record of optimizing processes while ensuring quality. Passionate about continuous improvement and development.
 
-STACKS
+### STACKS
 - Linux | C Language | Shell script
 - Python | Django
 - PHP | Laravel
 - HTML | CSS | JavaScript
 - SQL
 
-PROJECTS
+### PROJECTS
 - **Shell Program (Linux Bash Clone)**
   - [GitHub Repo](https://github.com/yungryce/simple_shell)
   - Emulated sh/bash on Linux OS.
@@ -43,7 +43,7 @@ PROJECTS
   - [GitHub Repo](https://github.com/yungryce/blog)
   - Created a simple blog app leveraging Django's extensive tools.
 
-WORK EXPERIENCE
+### WORK EXPERIENCE
 - **ALX Africa**
   - *Software Engineering Intern | July 2023 - Present*
 
@@ -58,12 +58,12 @@ WORK EXPERIENCE
     - Managed power equipment at 35 telecom sites, achieving a 99.5% power availability index.
     - Led maintenance and management of assets across 35 locations.
 
-EDUCATION
+### EDUCATION
 - B.Eng. | Mechanical Engineering (CGPA: 4.07/5)
   - 2012 – 2018
   - Michael Okpara University of Agriculture, Umudike
 
-ADDITIONAL HIGHLIGHTS
+### ADDITIONAL HIGHLIGHTS
 - Proven track record in optimizing processes and ensuring quality.
 - Strong problem-solving skills demonstrated in diverse software engineering projects.
 - Continuous learner with a passion for development and improvement.
