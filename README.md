@@ -1,6 +1,9 @@
-CHIGBU JOSHUA
+## CHIGBU JOSHUA
+
 Lagos, Nigeria | chigbujoshua@yahoo.com | +234 706 444 9563
-Portfolio: [chxgbx.cloud](https://chxgbx.cloud/) | LinkedIn: [chigbujoshua](https://linkedin.com/in/chigbujoshua) | GitHub: [yungryce](https://github.com/yungryce)
+Portfolio: [chxgbx.cloud](https://chxgbx.cloud/)
+LinkedIn: [chigbujoshua](https://linkedin.com/in/chigbujoshua)
+GitHub: [yungryce](https://github.com/yungryce)
 
 SUMMARY
 Resourceful Software and Systems Engineer with a solid foundation in Linux, C programming, Command Line scripting, and Data structures. Adept at problem-solving with a proven track record of optimizing processes while ensuring quality. Passionate about continuous improvement and development.
